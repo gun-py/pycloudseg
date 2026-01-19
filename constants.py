@@ -1,0 +1,11 @@
+"""
+Constants for OpenPointClass
+"""
+
+NUM_SCALES = 5
+N_TREES = 50
+MAX_DEPTH = 30
+RADIUS = 0.6
+
+LABEL_UNASSIGNED = 255
+LABEL_UNCLASSIFIED = 0
